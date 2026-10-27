@@ -1,0 +1,438 @@
+{
+  "notion_database": "https://www.notion.so/406b0d6134e481139df6eefa4f38ddbd",
+  "selection": "All 54 tasks already marked implemented in Task Tracker; all 30 newly reviewed tasks remain implementing and are excluded.",
+  "tasks": [
+    {
+      "task": "activity-logger",
+      "branch": "lueyang-dev",
+      "commit": "bf8b9a1d25edd81b158db0bb7f49d8624348e74d",
+      "source": "tasks/lueyang/activity-logger",
+      "destination": "tasks/finalpool/activity-logger",
+      "tree": "9c5eb809d6d7aa4a51a7b6b9e53c1dcac0d4bccd"
+    },
+    {
+      "task": "alert-system",
+      "branch": "yuzhen-dev",
+      "commit": "c68265dafe0a0eccc6e183ff96d1a3e5591a3d8b",
+      "source": "tasks/yuzhen/alert-system",
+      "destination": "tasks/finalpool/alert-system",
+      "tree": "64a2df6f9d1c043ce3587c54406b424ee62feb35"
+    },
+    {
+      "task": "asset-optimizer",
+      "branch": "yuxuan-dev",
+      "commit": "e82c8295f9506ced6862ab7f39048a731b48beb4",
+      "source": "tasks/yuxuan/asset-optimizer",
+      "destination": "tasks/finalpool/asset-optimizer",
+      "tree": "56d4c49230462ee219c07582416a615024cbae5c"
+    },
+    {
+      "task": "backup-utility",
+      "branch": "xiaochen_dev",
+      "commit": "20bfc73490dcf4029b92123b6055e076b7eb5dfa",
+      "source": "tasks/xiaochen/backup-utility",
+      "destination": "tasks/finalpool/backup-utility",
+      "tree": "173bcbcce86dd288ebed057865251e1f3b3344cd"
+    },
+    {
+      "task": "blog-engine",
+      "branch": "gyy",
+      "commit": "9612ffff37072726292c77df0f4c6db2f8df1bbb",
+      "source": "tasks/gyy/blog-engine",
+      "destination": "tasks/finalpool/blog-engine",
+      "tree": "7f3e73503fe06237410c1d74a9a3553da050813d"
+    },
+    {
+      "task": "booking-system",
+      "branch": "junteng_dev",
+      "commit": "4ab0c5415824d799c3457a26482f9b794c7e9e93",
+      "source": "tasks/junteng/booking-system",
+      "destination": "tasks/finalpool/booking-system",
+      "tree": "f31abeb30b05363037b0f6897ec38ebcc879b2e9"
+    },
+    {
+      "task": "calendar-sync",
+      "branch": "junteng_dev",
+      "commit": "4ab0c5415824d799c3457a26482f9b794c7e9e93",
+      "source": "tasks/junteng/calendar-sync",
+      "destination": "tasks/finalpool/calendar-sync",
+      "tree": "8188052d2add06cc716545eeb3f7840daa1a08e1"
+    },
+    {
+      "task": "canvas-automation",
+      "branch": "ruige",
+      "commit": "a6f3fba387f68acaf6517803e88b40a4a3c52658",
+      "source": "tasks/ruige/canvas-automation",
+      "destination": "tasks/finalpool/canvas-automation",
+      "tree": "2dc006c82017ded4a4ee1a0ec7f513ce3f1d2025"
+    },
+    {
+      "task": "canvas-grade-automation",
+      "branch": "jl_dev",
+      "commit": "4e2b63f5dafce88b60886ed6e6af7bd9a8966296",
+      "source": "tasks/jl/canvas-grade-automation",
+      "destination": "tasks/finalpool/canvas-grade-automation",
+      "tree": "65a2280bec5b3b6c88d9dc62cceb835bbc87f134"
+    },
+    {
+      "task": "chat-bot",
+      "branch": "lv",
+      "commit": "0be3288e0fd4ae1f241d3ce9cc1c864ae2606d37",
+      "source": "tasks/lv/chat-bot",
+      "destination": "tasks/finalpool/chat-bot",
+      "tree": "e0fc1e5595b8bbb7853f42311f0c660eeacaa84a"
+    },
+    {
+      "task": "cms-builder",
+      "branch": "gyy",
+      "commit": "9612ffff37072726292c77df0f4c6db2f8df1bbb",
+      "source": "tasks/gyy/cms-builder",
+      "destination": "tasks/finalpool/cms-builder",
+      "tree": "abbd774cfe91955c187a6431afb3078768276bb0"
+    },
+    {
+      "task": "contact-manager",
+      "branch": "junteng_dev",
+      "commit": "4ab0c5415824d799c3457a26482f9b794c7e9e93",
+      "source": "tasks/junteng/contact-manager",
+      "destination": "tasks/finalpool/contact-manager",
+      "tree": "6c311e746e8969accf3662b2fd8f95fd8e85ab64"
+    },
+    {
+      "task": "content-manager",
+      "branch": "yuxuan-dev",
+      "commit": "e82c8295f9506ced6862ab7f39048a731b48beb4",
+      "source": "tasks/yuxuan/content-manager",
+      "destination": "tasks/finalpool/content-manager",
+      "tree": "c7276b5bf9cc7b4f4f3a34008e4743092b9a6cc0"
+    },
+    {
+      "task": "content-scheduler",
+      "branch": "gyy",
+      "commit": "9612ffff37072726292c77df0f4c6db2f8df1bbb",
+      "source": "tasks/gyy/content-scheduler",
+      "destination": "tasks/finalpool/content-scheduler",
+      "tree": "06c681e7aad5442dac1db176f69db2e6085d2f7b"
+    },
+    {
+      "task": "coupon-manager",
+      "branch": "fan-dev",
+      "commit": "8b90f34538e4e106eba103265efaa9a456be498c",
+      "source": "tasks/fan/coupon-manager",
+      "destination": "tasks/finalpool/coupon-manager",
+      "tree": "7b3b4e6ec7cef1e2e0ead3704a38a059a2f626b3"
+    },
+    {
+      "task": "crm-system",
+      "branch": "lueyang-dev",
+      "commit": "bf8b9a1d25edd81b158db0bb7f49d8624348e74d",
+      "source": "tasks/lueyang/crm-system",
+      "destination": "tasks/finalpool/crm-system",
+      "tree": "89a0d586fcee909c6a3c8ccd5a47f6a4cbb1588d"
+    },
+    {
+      "task": "data-analytics",
+      "branch": "ruige",
+      "commit": "a6f3fba387f68acaf6517803e88b40a4a3c52658",
+      "source": "tasks/ruige/data-analytics",
+      "destination": "tasks/finalpool/data-analytics",
+      "tree": "9fb92ea6c712090a459aec8fdea2b9f799a56033"
+    },
+    {
+      "task": "data-validator",
+      "branch": "yuzhen-dev",
+      "commit": "c68265dafe0a0eccc6e183ff96d1a3e5591a3d8b",
+      "source": "tasks/yuzhen/data-validator",
+      "destination": "tasks/finalpool/data-validator",
+      "tree": "69c765a9fa3289e24eed9bdf5895e240807bae69"
+    },
+    {
+      "task": "deal-manager",
+      "branch": "lueyang-dev",
+      "commit": "bf8b9a1d25edd81b158db0bb7f49d8624348e74d",
+      "source": "tasks/lueyang/deal-manager",
+      "destination": "tasks/finalpool/deal-manager",
+      "tree": "c0949455bc3a2c967ccff459578f516e14a7256c"
+    },
+    {
+      "task": "deployment-tool",
+      "branch": "xiaochen_dev",
+      "commit": "20bfc73490dcf4029b92123b6055e076b7eb5dfa",
+      "source": "tasks/xiaochen/deployment-tool",
+      "destination": "tasks/finalpool/deployment-tool",
+      "tree": "5737766d90f597c0f294d8a6cab6c5943df2ac69"
+    },
+    {
+      "task": "email-campaign",
+      "branch": "lueyang-dev",
+      "commit": "bf8b9a1d25edd81b158db0bb7f49d8624348e74d",
+      "source": "tasks/lueyang/email-campaign",
+      "destination": "tasks/finalpool/email-campaign",
+      "tree": "a91d175489cb30be226a3b9587703575605c9b61"
+    },
+    {
+      "task": "email-classification-system",
+      "branch": "jl_dev",
+      "commit": "4e2b63f5dafce88b60886ed6e6af7bd9a8966296",
+      "source": "tasks/jl/email-classification-system",
+      "destination": "tasks/finalpool/email-classification-system",
+      "tree": "4d89429e2da82144e3b4af8549f783e75f4953a7"
+    },
+    {
+      "task": "error-tracker",
+      "branch": "xiaochen_dev",
+      "commit": "20bfc73490dcf4029b92123b6055e076b7eb5dfa",
+      "source": "tasks/xiaochen/error-tracker",
+      "destination": "tasks/finalpool/error-tracker",
+      "tree": "d3017f64286075704998d1bb6f1e77dd5540a0d2"
+    },
+    {
+      "task": "expense-tracker",
+      "branch": "ruige",
+      "commit": "a6f3fba387f68acaf6517803e88b40a4a3c52658",
+      "source": "tasks/ruige/expense-tracker",
+      "destination": "tasks/finalpool/expense-tracker",
+      "tree": "15f56a003e623f72e6b921a78b262f831ff6a57c"
+    },
+    {
+      "task": "feedback-collector",
+      "branch": "lv",
+      "commit": "0be3288e0fd4ae1f241d3ce9cc1c864ae2606d37",
+      "source": "tasks/lv/feedback-collector",
+      "destination": "tasks/finalpool/feedback-collector",
+      "tree": "8ed97e81d0804c06bf4ed195aa7b4a8915f5b5f0"
+    },
+    {
+      "task": "file-manager",
+      "branch": "ruige",
+      "commit": "a6f3fba387f68acaf6517803e88b40a4a3c52658",
+      "source": "tasks/ruige/file-manager",
+      "destination": "tasks/finalpool/file-manager",
+      "tree": "284a45e17256ca9b4040396847caa23d846bf2af"
+    },
+    {
+      "task": "follow-up-reminder",
+      "branch": "lueyang-dev",
+      "commit": "bf8b9a1d25edd81b158db0bb7f49d8624348e74d",
+      "source": "tasks/lueyang/follow-up-reminder",
+      "destination": "tasks/finalpool/follow-up-reminder",
+      "tree": "7c2afad5b5a87157954596bb29851ef0dd73f4ab"
+    },
+    {
+      "task": "form-builder",
+      "branch": "yuzhen-dev",
+      "commit": "c68265dafe0a0eccc6e183ff96d1a3e5591a3d8b",
+      "source": "tasks/yuzhen/form-builder",
+      "destination": "tasks/finalpool/form-builder",
+      "tree": "b0d5324baadd1f0d3a9a0c6c200ddfd5d7785e64"
+    },
+    {
+      "task": "image-processor",
+      "branch": "wenshuo-dev",
+      "commit": "d11080ed8d65fb72eb32d9353cb20844b593f9e8",
+      "source": "tasks/wenshuo/image-processor",
+      "destination": "tasks/finalpool/image-processor",
+      "tree": "329ab34e5bb98d29355b436bedc4fd770d6ca236"
+    },
+    {
+      "task": "invoice-generator",
+      "branch": "yuzhen-dev",
+      "commit": "c68265dafe0a0eccc6e183ff96d1a3e5591a3d8b",
+      "source": "tasks/yuzhen/invoice-generator",
+      "destination": "tasks/finalpool/invoice-generator",
+      "tree": "69fd1bdd49e85c238fadc412466f3eca1a725607"
+    },
+    {
+      "task": "load-balancer",
+      "branch": "zhaochen",
+      "commit": "b5f9cc4f79bb9218e40c0293ab9ec4e90352a626",
+      "source": "tasks/zhaochen/load-balancer",
+      "destination": "tasks/finalpool/load-balancer",
+      "tree": "5059048aaca9e7b80c62653f9ca48604f6017c44"
+    },
+    {
+      "task": "monitoring-agent",
+      "branch": "xiaochen_dev",
+      "commit": "20bfc73490dcf4029b92123b6055e076b7eb5dfa",
+      "source": "tasks/xiaochen/monitoring-agent",
+      "destination": "tasks/finalpool/monitoring-agent",
+      "tree": "cf73734283930b301752ab8566fa25de1a3e383d"
+    },
+    {
+      "task": "network-analyzer",
+      "branch": "yuxuan-dev",
+      "commit": "e82c8295f9506ced6862ab7f39048a731b48beb4",
+      "source": "tasks/yuxuan/network-analyzer",
+      "destination": "tasks/finalpool/network-analyzer",
+      "tree": "475c6aace9779634e0d255a29084324fd3991ce7"
+    },
+    {
+      "task": "order-processor",
+      "branch": "junteng_dev",
+      "commit": "4ab0c5415824d799c3457a26482f9b794c7e9e93",
+      "source": "tasks/junteng/order-processor",
+      "destination": "tasks/finalpool/order-processor",
+      "tree": "8c7ebc342a60168bec38fe3d7f9242a0fcd820da"
+    },
+    {
+      "task": "payment-processor",
+      "branch": "yuzhen-dev",
+      "commit": "c68265dafe0a0eccc6e183ff96d1a3e5591a3d8b",
+      "source": "tasks/yuzhen/payment-processor",
+      "destination": "tasks/finalpool/payment-processor",
+      "tree": "256505b74b70546965e95a57dabdd3c319b71332"
+    },
+    {
+      "task": "pdf-report-generator",
+      "branch": "jl_dev",
+      "commit": "4e2b63f5dafce88b60886ed6e6af7bd9a8966296",
+      "source": "tasks/jl/pdf-report-generator",
+      "destination": "tasks/finalpool/pdf-report-generator",
+      "tree": "b22972571d7fde6858d57e673c1311d98aac9d29"
+    },
+    {
+      "task": "permission-manager",
+      "branch": "yuzhen-dev",
+      "commit": "c68265dafe0a0eccc6e183ff96d1a3e5591a3d8b",
+      "source": "tasks/yuzhen/permission-manager",
+      "destination": "tasks/finalpool/permission-manager",
+      "tree": "4792e35e463a77a293db4c1c12e87bca94e20243"
+    },
+    {
+      "task": "personalization-service",
+      "branch": "lv",
+      "commit": "0be3288e0fd4ae1f241d3ce9cc1c864ae2606d37",
+      "source": "tasks/lv/personalization-service",
+      "destination": "tasks/finalpool/personalization-service",
+      "tree": "a103316caee2cc8f8963c2031078ef77cf1dfef2"
+    },
+    {
+      "task": "price-tracker",
+      "branch": "fan-dev",
+      "commit": "8b90f34538e4e106eba103265efaa9a456be498c",
+      "source": "tasks/fan/price-tracker",
+      "destination": "tasks/finalpool/price-tracker",
+      "tree": "709f2e592b56aa2303902434c4a44bc1332eb260"
+    },
+    {
+      "task": "product-catalog",
+      "branch": "junteng_dev",
+      "commit": "4ab0c5415824d799c3457a26482f9b794c7e9e93",
+      "source": "tasks/junteng/product-catalog",
+      "destination": "tasks/finalpool/product-catalog",
+      "tree": "883159e418369a41fabe37489fc8512cfae7cdc5"
+    },
+    {
+      "task": "qr-generator",
+      "branch": "junxian_dev",
+      "commit": "96bbc11b6fc701d07d961aaf070c434fccd1794f",
+      "source": "tasks/junxian/qr-generator",
+      "destination": "tasks/finalpool/qr-generator",
+      "tree": "de71eaf92be212bbdbbaa74b459dddb0b80cca4e"
+    },
+    {
+      "task": "reminder-service",
+      "branch": "junteng_dev",
+      "commit": "4ab0c5415824d799c3457a26482f9b794c7e9e93",
+      "source": "tasks/junteng/reminder-service",
+      "destination": "tasks/finalpool/reminder-service",
+      "tree": "805567f87e26f4ce2a8766fc10bcbe5530d186a2"
+    },
+    {
+      "task": "sales-pipeline",
+      "branch": "lueyang-dev",
+      "commit": "bf8b9a1d25edd81b158db0bb7f49d8624348e74d",
+      "source": "tasks/lueyang/sales-pipeline",
+      "destination": "tasks/finalpool/sales-pipeline",
+      "tree": "52a4c35e2a8195644f53400ead27a84c681eb524"
+    },
+    {
+      "task": "search-engine",
+      "branch": "wenshuo-dev",
+      "commit": "d11080ed8d65fb72eb32d9353cb20844b593f9e8",
+      "source": "tasks/wenshuo/search-engine",
+      "destination": "tasks/finalpool/search-engine",
+      "tree": "ffad5b8e695aa5fdd31f6a8a79ea8fd6472b9e87"
+    },
+    {
+      "task": "security-scanner",
+      "branch": "xiaochen_dev",
+      "commit": "20bfc73490dcf4029b92123b6055e076b7eb5dfa",
+      "source": "tasks/xiaochen/security-scanner",
+      "destination": "tasks/finalpool/security-scanner",
+      "tree": "46c0b6355441b555de5e8a50988f8efc5ad6f37c"
+    },
+    {
+      "task": "sentiment-analyzer",
+      "branch": "lv",
+      "commit": "0be3288e0fd4ae1f241d3ce9cc1c864ae2606d37",
+      "source": "tasks/lv/sentiment-analyzer",
+      "destination": "tasks/finalpool/sentiment-analyzer",
+      "tree": "92105a3ce2b4e5a800d1f503ab5b8a5f0b8cdf0b"
+    },
+    {
+      "task": "shipment-tracker",
+      "branch": "junteng_dev",
+      "commit": "4ab0c5415824d799c3457a26482f9b794c7e9e93",
+      "source": "tasks/junteng/shipment-tracker",
+      "destination": "tasks/finalpool/shipment-tracker",
+      "tree": "35ac4e7e2f0da5400f3a1cd73bf64122998b8eb8"
+    },
+    {
+      "task": "social-publisher",
+      "branch": "gyy",
+      "commit": "9612ffff37072726292c77df0f4c6db2f8df1bbb",
+      "source": "tasks/gyy/social-publisher",
+      "destination": "tasks/finalpool/social-publisher",
+      "tree": "95fd70586fdcce46ca7fb714d9340df175b8a74a"
+    },
+    {
+      "task": "subtitle-generator",
+      "branch": "haoze",
+      "commit": "e0072cf979548c56984072cd76f529c7beea59b2",
+      "source": "tasks/haoze/subtitle-generator",
+      "destination": "tasks/finalpool/subtitle-generator",
+      "tree": "eac4b09305441c3c62bac6bf600ce271f2bef7f0"
+    },
+    {
+      "task": "task-scheduler",
+      "branch": "yuxuan-dev",
+      "commit": "e82c8295f9506ced6862ab7f39048a731b48beb4",
+      "source": "tasks/yuxuan/task-scheduler",
+      "destination": "tasks/finalpool/task-scheduler",
+      "tree": "ecf519163efd7a2abd5696e5d6e9ccc00f06b93e"
+    },
+    {
+      "task": "template-engine",
+      "branch": "zhaochen",
+      "commit": "b5f9cc4f79bb9218e40c0293ab9ec4e90352a626",
+      "source": "tasks/zhaochen/template-engine",
+      "destination": "tasks/finalpool/template-engine",
+      "tree": "3a70b017b72635110e7f8d28171d711412a14e69"
+    },
+    {
+      "task": "translation-api",
+      "branch": "junxian_dev",
+      "commit": "96bbc11b6fc701d07d961aaf070c434fccd1794f",
+      "source": "tasks/junxian/translation-api",
+      "destination": "tasks/finalpool/translation-api",
+      "tree": "1cbe22d6bb2aceb9125f214b05aafa69058dbb29"
+    },
+    {
+      "task": "video-trimmer",
+      "branch": "haoze",
+      "commit": "e0072cf979548c56984072cd76f529c7beea59b2",
+      "source": "tasks/haoze/video-trimmer",
+      "destination": "tasks/finalpool/video-trimmer",
+      "tree": "a647334048bce7497caaee59f65aca1b3a6ef4a1"
+    },
+    {
+      "task": "voice-processor",
+      "branch": "lv",
+      "commit": "0be3288e0fd4ae1f241d3ce9cc1c864ae2606d37",
+      "source": "tasks/lv/voice-processor",
+      "destination": "tasks/finalpool/voice-processor",
+      "tree": "2f2e2d00b462a31ed1dce23ecbae8d7eb3fc29a8"
+    }
+  ]
+}
